@@ -1,1 +1,20 @@
 # Introduction of Java
+
+- What is a **statement**?
+  A complete command to be executed is a statement. It can include one or more expresssions.
+
+- What is an **expression**?
+  An expression is a coding construct, that encapsulates to a single value.
+
+#### Java Code Structure
+- Class
+  - Basic units of code.
+  - Describe data and logic of your program.
+
+- Package
+  - Intermidiate logical code aggregation
+  - Group of classes
+
+- Module
+  - High-level physical code aggregation
+  - Group of Packages
